@@ -33,7 +33,7 @@ With experience in previous research on semantic segmentation, I am currently in
 
 Feel free to reach out if you'd like to discuss ideas or explore new possibilities in tech innovation!
 
-<span class="anchor" id="educations"></span>
+<span class="anchor" id="-news"></span>
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
@@ -59,12 +59,14 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<span class="anchor" id="-educations"></span>
 
 # 📖 Educations
 - *2022 - 2026*, Tongji University – School of Electronic and Information Technology
   - Bachelor's Degree in Electrical Engineering. 
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+<span class="anchor" id="-honors-and-awards"></span>
 
 # 🎖 Honors and Awards
 - *2023.12* 🥉Third-Class Scholarship for Outstanding Students, Tongji University (Top 15%)
@@ -79,15 +81,20 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 🪂 Who I look up to 
+<span class="anchor" id="-who-i-look-up-to"></span>
+
+# 🪂 Who I Look Up To 
 I greatly admire **Elon Musk**, an entrepreneur who uses technology and first principles to drive humanity forward. His visionary approach inspires me to innovate and create meaningful solutions.
 
+<span class="anchor" id="-non-tech"></span>
 
 # 🏞️ My Non-Tech Traits 
 - **Effective Communication**: I excel at authentic networking and connecting with others, allowing me to build meaningful relationships.
 - **Storytelling**: I have the ability to simplify complex technological concepts, making them accessible to my peers and community.
   
 As a **Microsoft Student Ambassador**, I not only develop applications but also build and maintain the Microsoft Student Ambassador community. I have organized **7 tech-sharing events** to empower others with Microsoft technologies. My contributions include creating video content related to the Microsoft Student Ambassador community on **Bilibili**, which has garnered nearly **1,500 views** across **six videos**. My live stream sharing event cooperating with Microsoft MVPs reached **2000 audiences**. 
+
+<span class="anchor" id="-life"></span>
 
 # 🚀 The Life I Aspire To Live
 - I want to **constantly learn** about the latest cutting-edge technologies and engage in discussions with innovative thinkers. I aspire to join **entrepreneurial teams** to work towards a shared vision, **tackling seemingly impossible challenges together**. 
