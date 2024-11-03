@@ -40,9 +40,10 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 I was invited to attend the GitHub Universe 2024 conference in San Francisco. Microsoft and GitHub gave me full reimbursement.
+
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+<!-- # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,15 +57,17 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
 
 # 📖 Educations
 - *2022 - 2026*, Tongji University – School of Electronic and Information Technology
   - Bachelor's Degree in Electrical Engineering. 
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+
 # 🎖 Honors and Awards
-- *2023.12* Third-Class Scholarship for Outstanding Students, Tongji University (Top 15%)
+- *2023.12* 🥉Third-Class Scholarship for Outstanding Students, Tongji University (Top 15%)
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
@@ -75,3 +78,22 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 🪂 Who I look up to 
+I greatly admire **Elon Musk**, an entrepreneur who uses technology and first principles to drive humanity forward. His visionary approach inspires me to innovate and create meaningful solutions.
+
+
+# 🏞️ My Non-Tech Traits 
+- **Effective Communication**: I excel at authentic networking and connecting with others, allowing me to build meaningful relationships.
+- **Storytelling**: I have the ability to simplify complex technological concepts, making them accessible to my peers and community.
+  
+As a **Microsoft Student Ambassador**, I not only develop applications but also build and maintain the Microsoft Student Ambassador community. I have organized **7 tech-sharing events** to empower others with Microsoft technologies. My contributions include creating video content related to the Microsoft Student Ambassador community on **Bilibili**, which has garnered nearly **1,500 views** across **six videos**. My live stream sharing event cooperating with Microsoft MVPs reached **2000 audiences**. 
+
+# 🚀 The Life I Aspire To Live
+- I want to **constantly learn** about the latest cutting-edge technologies and engage in discussions with innovative thinkers. I aspire to join **entrepreneurial teams** to work towards a shared vision, **tackling seemingly impossible challenges together**. 
+
+- I also desire to have leisure time to **travel** the world, **connecting** and making friends with people from diverse backgrounds. 
+
+- I want to try all sorts of **sports** and maintain an interest in some of them in my daily life. I hope to wake up every morning filled with **hope and motivation**, refusing to be defeated by failure or setbacks.  
+
+- Ultimately, I want to be someone that others enjoy being around, sharing my unique life experiences and bringing **inspiration** and joy to those I meet.
