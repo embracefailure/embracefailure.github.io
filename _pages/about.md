@@ -60,6 +60,8 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
+
+
 # 🎓 Projects
 - *2025.2*: &nbsp;Used Knowledge Distillation to distill a Deep Neural Network in image classification task on CIFAR-10. With the help of Pytorch Tutorials: https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html 
 
