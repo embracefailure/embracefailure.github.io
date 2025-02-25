@@ -77,7 +77,7 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 # 🎖 Honors and Awards
 - *2023.12* 🥉Third-Class Scholarship for Outstanding Students, Tongji University (Top 15%)
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
+- *2024.12* 🥇First-Class Scholarship for Outstanding Students, Tongji University (Top 5%)
 
 
 <!-- # 💬 Invited Talks
