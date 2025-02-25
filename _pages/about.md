@@ -63,8 +63,8 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 
 
 # 🎓 Projects
-- *2025.2*: &nbsp;Used Knowledge Distillation to distill a Deep Neural Network in image classification task on CIFAR-10. With the help of [Pytorch Tutorials](https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html) 
-
+- *2025.1*: &nbsp;Used Knowledge Distillation to distill a Deep Neural Network in image classification task on CIFAR-10. With the help of [Pytorch Tutorials](https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html) 
+- *2025.2*: &nbsp;I worked on using Reinforcement Learning to recycle a virtual rocket. Based on this GitHub project [Rocket Recycling using RL](https://github.com/jiupinjia/rocket-recycling) 
 <span class="anchor" id="-educations"></span>
 
 # 📖 Educations
