@@ -40,6 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* 仅限制 Publications 栏目图片的样式 */
+.publications-section {
+    margin-bottom: 2rem; /* 增加与下方内容的间距 */
+  }
+
 .paper-box {
     display: flex;
     justify-content: left;
