@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <h1>
-  🥰 Hi there my No.
-  <img src="https://profile-counter.glitch.me/embracefailure/count.svg"/>
-  visitor!
+  🥰 Hi
+  <!-- <img src="https://profile-counter.glitch.me/embracefailure/count.svg"/>
+  visitor! -->
 </h1>
 
 I'm Timmy Wen, a next generation engineer who takes actions quickly to validate ideas and iterate for innovation. 
@@ -29,7 +29,7 @@ To broaden my horizons and team up with talents from the community, I build my c
 
 I dream about solving problems with technology, so I am practising empowering people and working on cool projects.
 
-With experience in previous research on semantic segmentation, I am currently interested in Deep Learning. 
+I am currently interested in affordance learning in robotics, I'm also amazed by the potential that Agent AI brings to existing workflow.
 
 Feel free to reach out if you'd like to discuss ideas or explore new possibilities in tech innovation!
 
@@ -43,16 +43,18 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!-- # 📝 Publications 
+<span class="anchor" id="-publications"></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='/images/arxiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Fully Exploiting Vision Foundation Model's Profound Prior Knowledge for Generalizable RGB-Depth Driving Scene Parsing](https://arxiv.org/pdf/2502.06219)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Sicen Guo**, Tianyou Wen, Chuangwei Liu, Qijun Chen, Rui Fan
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -60,13 +62,15 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
-
+<span class="anchor" id="-projects"></span>
 
 # 🎓 Projects
-- *2025.1*: &nbsp;Used Knowledge Distillation to distill a Deep Neural Network in image classification task on CIFAR-10. With the help of [Pytorch Tutorials](https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html) 
+- *2025.1*: &nbsp;Used Knowledge Distillation to transfer knowledge from a DNN for image classification task on CIFAR-10. With the help of [Pytorch Tutorials](https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html) 
 - *2025.2*: &nbsp;I worked on using Reinforcement Learning to recycle a virtual rocket. Based on this GitHub project [Rocket Recycling using RL](https://github.com/jiupinjia/rocket-recycling). I find this [Explanation on Actor-Critic Algorithm](https://www.geeksforgeeks.org/actor-critic-algorithm-in-reinforcement-learning/) really helpful.  
-- *2025.3*: &nbsp;When learning SQL, I find this [SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial) helpful. 
-- *2025.3*: &nbsp;Compared Grok3 with GPT o3 mini on coding problem. Turned out that Grok outperforms GPT on generating code for this [ball throwing game](https://github.com/embracefailure/game-animation).
+<!-- - *2025.3*: &nbsp;When learning SQL, I find this [SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial) helpful.  -->
+<!-- - *2025.3*: &nbsp;Compared Grok3 with GPT o3 mini on coding problem. Turned out that Grok outperforms GPT on generating code for this [ball throwing game](https://github.com/embracefailure/game-animation). -->
+- *2025.3*: &nbsp;Worked on [Lerobot](https://github.com/embracefailure/lerobot), trained a policy using [ALOHA ACT](https://github.com/tonyzhaozh/aloha) on the [mobile_shrimp](https://huggingface.co/datasets/lerobot/aloha_mobile_shrimp) dataset.
+- *2025.3*: &nbsp;Contributed to this [Embodied AI Guide](https://github.com/TianxingChen/Embodied-AI-Guide). Happy to be a part of the community!
 <span class="anchor" id="-educations"></span>
 
 # 📖 Educations
@@ -89,22 +93,22 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-<span class="anchor" id="-who-i-look-up-to"></span>
+<span class="anchor" id="-mentor"></span>
 
-# 🪂 Who I Look Up To 
+# 🪂 Mentor
 I greatly admire **Elon Musk**, an entrepreneur who uses technology and first principles to drive humanity forward. His visionary approach inspires me to innovate and create meaningful solutions.
 
 <span class="anchor" id="-non-tech"></span>
 
-# 🏞️ My Non-Tech Traits 
+# 🏞️ Non-Tech Traits 
 - **Effective Communication**: I excel at authentic networking and connecting with others, allowing me to build meaningful relationships.
 - **Storytelling**: I have the ability to simplify complex technological concepts, making them accessible to my peers and community.
   
-As a **Microsoft Student Ambassador**, I not only develop applications but also build and maintain the Microsoft Student Ambassador community. I have organized **7 tech-sharing events** to empower others with Microsoft technologies. My contributions include creating video content related to the Microsoft Student Ambassador community on **Bilibili**, which has garnered nearly **1,500 views** across **six videos**. My live stream sharing event cooperating with Microsoft MVPs reached **2000 audiences**. 
+As a **Microsoft Student Ambassador**, I not only develop applications but also build and maintain the Microsoft Student Ambassador community. I have organized **7 tech-sharing events** to empower others with Microsoft technologies. My contributions include creating video content related to the Microsoft Student Ambassador community on **Bilibili**, which has garnered nearly **2,500 views** across **six videos**. My live stream sharing event cooperating with Microsoft MVPs reached **2000 audiences**. 
 
 <span class="anchor" id="-life"></span>
 
-# 🚀 The Life I Aspire To Live
+# 🚀 Life
 - I want to **constantly learn** about the latest cutting-edge technologies and engage in discussions with innovative thinkers. I aspire to join **entrepreneurial teams** to work towards a shared vision, **tackling seemingly impossible challenges together**. 
 
 - I also desire to have leisure time to **travel** the world, **connecting** and making friends with people from diverse backgrounds. 

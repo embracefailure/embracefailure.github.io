@@ -9,8 +9,8 @@ main:
   - title: "Projects"
     url: "/#-projects"
 
-  # - title: "Publications"
-  #   url: "/#-publications"
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Educations"
     url: "/#-educations"
@@ -18,13 +18,13 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Who I Look Up To"
-    url: "/#-who-i-look-up-to"
+  - title: "Mentor"
+    url: "/#-mentor"
 
-  - title: "My Non-Tech Traits"
+  - title: "Non-Tech Traits"
     url: "/#-non-tech"
 
-  - title: "The Life I Aspire To Live"
+  - title: "Life"
     url: "/#-life"
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
