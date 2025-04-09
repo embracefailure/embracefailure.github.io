@@ -74,25 +74,30 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 <span class="anchor" id="-projects"></span>
 
 # 🎓 Projects
-- *2025.1*: &nbsp;Used Knowledge Distillation to transfer knowledge from a DNN for image classification task on CIFAR-10. With the help of [Pytorch Tutorials](https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html) 
-- *2025.2*: &nbsp;I worked on using Reinforcement Learning to recycle a virtual rocket. Based on this GitHub project [Rocket Recycling using RL](https://github.com/jiupinjia/rocket-recycling). I find this [Explanation on Actor-Critic Algorithm](https://www.geeksforgeeks.org/actor-critic-algorithm-in-reinforcement-learning/) really helpful.  
-<!-- - *2025.3*: &nbsp;When learning SQL, I find this [SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial) helpful.  -->
-<!-- - *2025.3*: &nbsp;Compared Grok3 with GPT o3 mini on coding problem. Turned out that Grok outperforms GPT on generating code for this [ball throwing game](https://github.com/embracefailure/game-animation). -->
 - *2025.3*: &nbsp;Worked on [Lerobot](https://github.com/embracefailure/lerobot), trained a policy using [ALOHA ACT](https://github.com/tonyzhaozh/aloha) on the [mobile_shrimp](https://huggingface.co/datasets/lerobot/aloha_mobile_shrimp) dataset.
 - *2025.3*: &nbsp;Contributed to this [Embodied AI Guide](https://github.com/TianxingChen/Embodied-AI-Guide). Happy to be a part of the community!
+- *2025.2*: &nbsp;I worked on using Reinforcement Learning to recycle a virtual rocket. Based on this GitHub project [Rocket Recycling using RL](https://github.com/jiupinjia/rocket-recycling). I find this [Explanation on Actor-Critic Algorithm](https://www.geeksforgeeks.org/actor-critic-algorithm-in-reinforcement-learning/) really helpful.  
+- *2025.1*: &nbsp;Used Knowledge Distillation to transfer knowledge from a DNN for image classification task on CIFAR-10. With the help of [Pytorch Tutorials](https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html) 
+<!-- - *2025.3*: &nbsp;When learning SQL, I find this [SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial) helpful.  -->
+<!-- - *2025.3*: &nbsp;Compared Grok3 with GPT o3 mini on coding problem. Turned out that Grok outperforms GPT on generating code for this [ball throwing game](https://github.com/embracefailure/game-animation). -->
+
 <span class="anchor" id="-educations"></span>
 
 # 📖 Educations
 - *2022 - 2026*, Tongji University – School of Electronic and Information Technology
   - Bachelor's Degree in Electrical Engineering. 
+- *2024 - 2025*, Self-Directed Study  
+  - Completed [**CS231n: Convolutional Neural Networks for Visual Recognition**](https://cs231n.stanford.edu/) (Stanford University)  
+  - Completed [**CS287: Advanced Robotics**](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) (UC Berkeley, taught by Pieter Abbeel)
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <span class="anchor" id="-honors-and-awards"></span>
 
 # 🎖 Honors and Awards
+- *2024.12* 🥇First-Class Scholarship for Outstanding Students, Tongji University (Top 5%)
 - *2023.12* 🥉Third-Class Scholarship for Outstanding Students, Tongji University (Top 15%)
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2024.12* 🥇First-Class Scholarship for Outstanding Students, Tongji University (Top 5%)
+
 
 
 <!-- # 💬 Invited Talks
@@ -102,10 +107,10 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-<span class="anchor" id="-mentor"></span>
+<!-- <span class="anchor" id="-mentor"></span>
 
 # 🪂 Mentor
-I greatly admire **Elon Musk**, an entrepreneur who uses technology and first principles to drive humanity forward. His visionary approach inspires me to innovate and create meaningful solutions.
+I greatly admire **Elon Musk**, an entrepreneur who uses technology and first principles to drive humanity forward. His visionary approach inspires me to innovate and create meaningful solutions. -->
 
 <span class="anchor" id="-non-tech"></span>
 

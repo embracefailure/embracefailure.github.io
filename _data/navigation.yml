@@ -18,8 +18,8 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Mentor"
-    url: "/#-mentor"
+  # - title: "Mentor"
+  #   url: "/#-mentor"
 
   - title: "Non-Tech Traits"
     url: "/#-non-tech"
