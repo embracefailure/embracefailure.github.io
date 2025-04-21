@@ -29,7 +29,7 @@ To broaden my horizons and team up with talents from the community, I build my c
 
 I dream about solving problems with technology, so I am practising empowering people and working on cool projects.
 
-I am currently interested in affordance learning in robotics, I'm also amazed by the potential that Agent AI brings to existing workflow.
+I am currently interested in computer vision and robotics, I'm also amazed by the potential that Agent AI brings to existing workflow.
 
 Feel free to reach out if you'd like to discuss ideas or explore new possibilities in tech innovation!
 
