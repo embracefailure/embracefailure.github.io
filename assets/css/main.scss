@@ -112,3 +112,29 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.projects-media-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+  }
+  
+  .media-box {
+    border: 1px solid #eee;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .media-caption {
+    padding: 0.5rem;
+    text-align: center;
+    background: #f8f9fa;
+    font-size: 0.9em;
+  }
+  
+  .media-box img,
+  .media-box video {
+    width: 100%;
+    object-fit: cover;
+  }

@@ -78,6 +78,24 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 - *2025.3*: &nbsp;Contributed to this [Embodied AI Guide](https://github.com/TianxingChen/Embodied-AI-Guide). Happy to be a part of the community!
 - *2025.2*: &nbsp;I worked on using Reinforcement Learning to recycle a virtual rocket. Based on this GitHub project [Rocket Recycling using RL](https://github.com/jiupinjia/rocket-recycling). I find this [Explanation on Actor-Critic Algorithm](https://www.geeksforgeeks.org/actor-critic-algorithm-in-reinforcement-learning/) really helpful.  
 - *2025.1*: &nbsp;Used Knowledge Distillation to transfer knowledge from a DNN for image classification task on CIFAR-10. With the help of [Pytorch Tutorials](https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html) 
+
+<div class="projects-media-section">
+  <!-- 项目演示图片 -->
+  <div class="media-box">
+    <img src="/images/projects/embodied_ai_guide.png" alt="Embodied AI Guide" width="100%">
+    <div class="media-caption">Embodied AI Guide</div>
+  </div>
+  
+  <!-- 项目演示视频 -->
+  <div class="media-box">
+    <video width="100%" controls>
+      <source src="/videos/projects/aloha_act.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div class="media-caption">Collecting data using ALOHA</div>
+  </div>
+</div>
+
 <!-- - *2025.3*: &nbsp;When learning SQL, I find this [SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial) helpful.  -->
 <!-- - *2025.3*: &nbsp;Compared Grok3 with GPT o3 mini on coding problem. Turned out that Grok outperforms GPT on generating code for this [ball throwing game](https://github.com/embracefailure/game-animation). -->
 
