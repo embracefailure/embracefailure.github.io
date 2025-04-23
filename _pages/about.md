@@ -82,17 +82,17 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 <div class="projects-media-section">
   <!-- 项目演示图片 -->
   <div class="media-box">
-    <img src="/images/projects/embodied_ai_guide.png" alt="Embodied AI Guide" width="100%">
-    <div class="media-caption">Embodied AI Guide</div>
+    <img src="/images/projects/embodied_ai_guide.png" alt="Embodied AI Guide" style="width: 60%; display: block; margin: 0 auto;">
+    <p style="text-align: center; margin-top: 10px;">My contributions to the Embodied AI Guide</p>
   </div>
   
   <!-- 项目演示视频 -->
   <div class="media-box">
-    <video width="100%" controls>
+    <video style="width: 60%; display: block; margin: 0 auto;" controls>
       <source src="/videos/projects/aloha_act.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <div class="media-caption">Collecting data using ALOHA</div>
+    <p style="text-align: center; margin-top: 10px;">Collecting data using ALOHA @ Shanghai Innovation Institute</p>
   </div>
 </div>
 
