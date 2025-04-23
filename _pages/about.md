@@ -82,19 +82,28 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 <div class="projects-media-section">
   <!-- 项目演示图片 -->
   <div class="media-box">
-    <img src="/images/projects/embodied_ai_guide.png" alt="Embodied AI Guide" style="width: 60%; display: block; margin: 0 auto;">
-    <p style="text-align: center; margin-top: 10px;">My contributions to the Embodied AI Guide</p>
+    <img src="/images/projects/embodied_ai_guide.png" alt="Embodied AI Guide" style="width: 60%;">
+    <div class="media-caption">My contributions to the Embodied AI Guide</div>
   </div>
   
   <!-- 项目演示视频 -->
   <div class="media-box">
-    <video style="width: 60%; display: block; margin: 0 auto;" controls>
+    <video style="width: 60%;" controls>
       <source src="/videos/projects/aloha_act.mp4" type="video/mp4">
-      Your browser does not support the video tag.
     </video>
-    <p style="text-align: center; margin-top: 10px;">Collecting data using ALOHA @ Shanghai Innovation Institute</p>
+    <div class="media-caption">Collecting data using ALOHA @ Shanghai Innovation Institute</div>
   </div>
 </div>
+
+<style>
+.media-box {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.media-caption {
+  margin-top: 10px;
+}
+</style>
 
 <!-- - *2025.3*: &nbsp;When learning SQL, I find this [SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial) helpful.  -->
 <!-- - *2025.3*: &nbsp;Compared Grok3 with GPT o3 mini on coding problem. Turned out that Grok outperforms GPT on generating code for this [ball throwing game](https://github.com/embracefailure/game-animation). -->
