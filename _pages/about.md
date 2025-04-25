@@ -27,11 +27,13 @@ I'm Timmy Wen, a next generation engineer who takes actions quickly to validate 
 
 To broaden my horizons and team up with talents from the community, I build my community as a Microsoft Learn Student Ambassador.
 
-I dream about solving problems with technology, so I am practising empowering people and working on cool projects. BTW, my favorite color is <span style="color: #8C1515">Cardinal Red</span> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="20" height="20" style="vertical-align: middle;">, what about you?
+I dream about solving problems with technology, so I am practising empowering people and working on cool projects. 
 
 I am currently interested in computer vision and robotics, I'm also amazed by the potential that Agent AI brings to existing workflow.
 
 Feel free to reach out if you'd like to discuss ideas or explore new possibilities in tech innovation!
+
+One more thing, my favorite color is <span style="color: #8C1515">Cardinal Red</span> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="15" height="15" style="vertical-align: middle;">, what about you?
 
 <span class="anchor" id="-news"></span>
 
