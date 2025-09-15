@@ -18,20 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <h1>
-  🥰 Hi
+  Hi
   <!-- <img src="https://profile-counter.glitch.me/embracefailure/count.svg"/>
   visitor! -->
 </h1>
 
-I'm Timmy Wen, a next generation engineer who takes actions quickly to validate ideas and iterate for innovation. 
+I'm Timmy Wen
 
-To broaden my horizons and team up with talents from the community, I build my community as a Microsoft Learn Student Ambassador.
+I build bridges between AI and applications.
 
-I dream about solving problems with technology, so I am practising empowering people and working on cool projects. 
-
-I am currently interested in computer vision and robotics, I'm also amazed by the potential that Agent AI brings to existing workflow.
-
-Feel free to reach out if you'd like to discuss ideas or explore new possibilities in tech innovation!
+I interned at Microsoft Cloud & AI.
 
 One more thing, my favorite color is <span style="color: #8C1515">Cardinal Red</span> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="15" height="15" style="vertical-align: middle;">, what about you?
 
@@ -75,7 +71,12 @@ One more thing, my favorite color is <span style="color: #8C1515">Cardinal Red</
 
 <span class="anchor" id="-projects"></span>
 
-# 🎓 Projects
+# 🎓 Selected Projects
+- *2025.6-2025.9*: 
+
+  **Customer Profiling Agent (ATU Agent)**
+
+  A multi agent research system that conducts deep local and web research and generates a long report with citations.
 - *2025.3*: &nbsp;Worked on [Lerobot](https://github.com/embracefailure/lerobot), trained a policy using [ALOHA ACT](https://github.com/tonyzhaozh/aloha) on the [mobile_shrimp](https://huggingface.co/datasets/lerobot/aloha_mobile_shrimp) dataset.
 - *2025.3*: &nbsp;Contributed to this [Embodied AI Guide](https://github.com/TianxingChen/Embodied-AI-Guide). Happy to be a part of the community!
 - *2025.2*: &nbsp;I worked on using Reinforcement Learning to recycle a virtual rocket. Based on this GitHub project [Rocket Recycling using RL](https://github.com/jiupinjia/rocket-recycling). I find this [Explanation on Actor-Critic Algorithm](https://www.geeksforgeeks.org/actor-critic-algorithm-in-reinforcement-learning/) really helpful.  
