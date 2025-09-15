@@ -77,6 +77,8 @@ One more thing, my favorite color is <span style="color: #8C1515">Cardinal Red</
   **Customer Profiling Agent (ATU Agent)**
 
   A multi agent research system that conducts deep local and web research and generates a long report with citations.
+
+  [[GitHub]](https://github.com/embracefailure/ATU-Agent)
 - *2025.3*: &nbsp;Worked on [Lerobot](https://github.com/embracefailure/lerobot), trained a policy using [ALOHA ACT](https://github.com/tonyzhaozh/aloha) on the [mobile_shrimp](https://huggingface.co/datasets/lerobot/aloha_mobile_shrimp) dataset.
 - *2025.3*: &nbsp;Contributed to this [Embodied AI Guide](https://github.com/TianxingChen/Embodied-AI-Guide). Happy to be a part of the community!
 - *2025.2*: &nbsp;I worked on using Reinforcement Learning to recycle a virtual rocket. Based on this GitHub project [Rocket Recycling using RL](https://github.com/jiupinjia/rocket-recycling). I find this [Explanation on Actor-Critic Algorithm](https://www.geeksforgeeks.org/actor-critic-algorithm-in-reinforcement-learning/) really helpful.  
