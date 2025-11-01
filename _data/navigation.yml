@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Magic Moments"
+    url: "/#-magic-moments"
 
   - title: "Publications"
     url: "/#-publications"

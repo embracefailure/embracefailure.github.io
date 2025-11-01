@@ -35,7 +35,7 @@ My journey at Microsoft and Tesla taught me valuable lessons:
 
 One more thing, my favorite color is <span style="color: #8C1515">Cardinal Red</span> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="15" height="15" style="vertical-align: middle;"> what about you?
 
-<span class="anchor" id="-news"></span>
+<span class="anchor" id="-magic-moments"></span>
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
