@@ -27,16 +27,20 @@ I'm Timmy Wen
 
 I build bridges between AI and applications.
 
-I interned at Microsoft Cloud & AI.
+My journey at Microsoft and Tesla taught me valuable lessons:
 
-One more thing, my favorite color is <span style="color: #8C1515">Cardinal Red</span> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="15" height="15" style="vertical-align: middle;">, what about you?
+1. Data is fundamental for intelligence
+2. Evaluation is important but lack attention
+3. Keep an open mind and never stop growing
+
+One more thing, my favorite color is <span style="color: #8C1515">Cardinal Red</span> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="15" height="15" style="vertical-align: middle;"> what about you?
 
 <span class="anchor" id="-news"></span>
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
-# 🔥 News
+# 🔥 Magic Moments
 - *2024.10*: &nbsp;🎉🎉 I was invited to attend the GitHub Universe 2024 conference in San Francisco. Microsoft and GitHub gave me full reimbursement.
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
