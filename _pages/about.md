@@ -166,10 +166,8 @@ As a **Microsoft Student Ambassador**, I not only develop applications but also 
 <span class="anchor" id="-life"></span>
 
 # 🚀 Life
-- I want to **constantly learn** about the latest cutting-edge technologies and engage in discussions with innovative thinkers.
+- I am **constantly learning** about the cutting-edge technologies and engaging in discussions with innovative thinkers.
 
-- I also desire to have leisure time to **travel** the world, **connecting** and making friends with people from diverse backgrounds. 
+- I want to try all **sports** and maintain an interest in some of them. Enjoy playing golf (Varsity Team), swimming (Varsity Team), baseball(Varsity Team), american football, basketball, tennis, soccer, running, and badminton so far. 
 
-- I want to try all sorts of **sports** and maintain an interest in some of them. Enjoy playing golf (Varsity Team), swimming (Varsity Team), baseball(Varsity Team), american football, basketball, tennis, soccer, running, and badminton so far. 
-
-- Ultimately, I want to be someone that others enjoy being around.
+- I want to be a friend of time. 
