@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <h1>
-  Hi
+  😄 Hi
   <!-- <img src="https://profile-counter.glitch.me/embracefailure/count.svg"/>
   visitor! -->
 </h1>
@@ -74,6 +74,13 @@ One more thing, my favorite color is <span style="color: #8C1515">Cardinal Red</
 
 
 <span class="anchor" id="-projects"></span>
+
+# 💻 Internships
+- *2025.10 - Present*, Data Engineer Intern @ [Tesla](https://www.linkedin.com/company/tesla-motors/posts/?feedView=all)
+- *2025.06 - 2025.10*, Account Tech Strategist Intern @ [Microsoft](https://www.linkedin.com/company/microsoft/posts/?feedView=all)
+- *2024.12 - 2025.02*, Application Engineer Intern @ Metaverse
+
+
 
 # 🎓 Selected Projects
 - *2025.6-2025.9*: 
@@ -140,21 +147,20 @@ One more thing, my favorite color is <span style="color: #8C1515">Cardinal Red</
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
 
 <!-- <span class="anchor" id="-mentor"></span>
 
 # 🪂 Mentor
 I greatly admire **Elon Musk**, an entrepreneur who uses technology and first principles to drive humanity forward. His visionary approach inspires me to innovate and create meaningful solutions. -->
 
-<span class="anchor" id="-non-tech"></span>
+<!-- <span class="anchor" id="-non-tech"></span>
 
 # 🏞️ Non-Tech Traits 
 - **Effective Communication**: I excel at authentic networking and connecting with others, allowing me to build meaningful relationships.
 - **Storytelling**: I have the ability to simplify complex technological concepts, making them accessible to my peers and community.
   
-As a **Microsoft Student Ambassador**, I not only develop applications but also build and maintain the Microsoft Student Ambassador community. I have organized **7 tech-sharing events** to empower others with Microsoft technologies. My contributions include creating video content related to the Microsoft Student Ambassador community on **Bilibili**, which has garnered nearly **2,500 views** across **six videos**. My live stream sharing event cooperating with Microsoft MVPs reached **2000 audiences**. 
+As a **Microsoft Student Ambassador**, I not only develop applications but also build and maintain the Microsoft Student Ambassador community. I have organized **7 tech-sharing events** to empower others with Microsoft technologies. My contributions include creating video content related to the Microsoft Student Ambassador community on **Bilibili**, which has garnered nearly **2,500 views** across **six videos**. My live stream sharing event cooperating with Microsoft MVPs reached **2000 audiences**.  -->
 
 <span class="anchor" id="-life"></span>
 
