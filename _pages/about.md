@@ -73,14 +73,15 @@ One more thing, my favorite color is <span style="color: #8C1515">Cardinal Red</
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
-<span class="anchor" id="-projects"></span>
 
+
+<span class="anchor" id="-internships"></span>
 # 💻 Internships
 - *2025.10 - Present*, Data Engineer Intern @ [Tesla](https://www.linkedin.com/company/tesla-motors/posts/?feedView=all)
 - *2025.06 - 2025.10*, Account Tech Strategist Intern @ [Microsoft](https://www.linkedin.com/company/microsoft/posts/?feedView=all)
 - *2024.12 - 2025.02*, Application Engineer Intern @ Metaverse
 
-
+<span class="anchor" id="-projects"></span>
 
 # 🎓 Selected Projects
 - *2025.6-2025.9*: 
