@@ -41,7 +41,8 @@ One more thing, my favorite color is <span style="color: #8C1515">Cardinal Red</
 
 
 # 🔥 Magic Moments
-- *2024.10*: &nbsp;🎉🎉 I was invited to attend the GitHub Universe 2024 conference in San Francisco. Microsoft and GitHub gave me full reimbursement.
+- *2026.02*: My app [Friend-of-Time](https://aquamarine-starship-b3cb83.netlify.app/) went public, feel free to try it out!
+- *2024.10*: I was invited to attend the GitHub Universe 2024 conference in San Francisco. Microsoft and GitHub gave me full reimbursement. &nbsp;🎉🎉
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
